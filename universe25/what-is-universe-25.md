@@ -1,6 +1,12 @@
+<style>
+  .red{
+    color=red;
+  };
+</style>
+
 **Universe 25** is a famous science experiment about mice (and what happens when they have everything they need).
 
-Universe 25 is a science test about mice(multiple mouse).
+<p class="red">Universe 25 is a science test about mice(multiple mouse).</p>
 
 ### Simple Explanation (Grade 3 level):
 
