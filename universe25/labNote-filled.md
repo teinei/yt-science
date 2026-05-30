@@ -12,7 +12,7 @@ ________Universe 25_______________________
 
 **Question:**  
 What are we trying to find out?  
-________________________________________________________
+____Can mice live a good live if there is no hunger&danger ?____________________________________________________
 
 **My Guess:**  
 I think ____________________________ will happen.
