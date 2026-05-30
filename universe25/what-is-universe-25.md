@@ -1,7 +1,9 @@
 
 **Universe 25** is a famous science experiment about mice (and what happens when they have everything they need).
 
-<a>Universe 25 is a science test about mice(multiple mouse).</a>
+```py
+# Universe 25 is a science test about mice(multiple mouse).
+```
 
 ### Simple Explanation (Grade 3 level):
 
