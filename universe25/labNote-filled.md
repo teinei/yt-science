@@ -5,20 +5,20 @@
 
 **Lab Notes**  
 **Name:** _____Johnny______________________  
-**Date:** ______may 30 2026_____________________  
+**Date:** _______may 30 2026_____________________  
 
 **Title of the Experiment:**  
-________Universe 25_______________________
+_________Universe 25_______________________
 
 **Question:**  
 What are we trying to find out?  
-____Can mice live a good live if there is no hunger&danger ?____________________________________________________
+_____Can mice live a good live if there is no hunger&danger ?____________________________________________________
 
 **My Guess:**  
-I think ____________________________ will happen.
+I think ________mice will have a good live and thrive____________________ (will happen).
 
 **Materials We Used:**  
-• ____________________________  
+• _______  _____________________ 
 • ____________________________  
 • ____________________________  
 
