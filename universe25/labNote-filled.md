@@ -18,8 +18,8 @@ _____Can mice live a good live if there is no hunger&danger ?___________________
 I think ________mice will have a good live and thrive____________________ (will happen).
 
 **Materials We Used:**  
-• ____________________________mice 
-• ____________________________mice heaven  
+• ______________________mice______
+• ________________mice__heaven__________  
 • ____________________________  
 
 **What We Did (Steps):**  
