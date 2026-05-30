@@ -23,9 +23,9 @@ I think ________mice will have a good live and thrive____________________ (will 
 • ____________________________  
 
 **What We Did (Steps):**  
-1. __________________________________________________  
-2. __________________________________________________  
-3. __________________________________________________  
+1. _____build a special cage called universe 25_____________________________________________  
+2. ________pick 8 healthy mice(4 boys 4 girls)_put them in the cage_________________________________________  
+3. _____watch write down what happened and keep it going nicely( clean cage, give enough food water)_____________________________________________  
 
 **Observations (What I Saw):**  
 Date & Time       | What I saw / What happened  
